@@ -710,7 +710,7 @@ int check_password(char *input) {
     __delay_ms(2000); // Wait for 2000ms
     */
     
-    return strcmp(input, stored_password) == 0; // Compare the entered password with the stored password
+    return strcmp(input, (const char*)stored_password) == 0;  // Compare the entered password with the stored password
 }
 
 // Function to set a new password

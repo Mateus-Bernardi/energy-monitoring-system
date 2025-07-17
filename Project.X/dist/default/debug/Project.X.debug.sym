@@ -1020,8 +1020,8 @@ cstackCOMRAM 1 5F COMRAM 1 1
 cstackBANK0 60 E9 BANK0 60 1
 cstackBANK1 100 1FC BANK1 100 1
 %locals
-dist/default/production\Project.X.production.o
-C:\Users\Mateus\AppData\Local\Temp\xcAsets.\driver_tmp_1.s
+dist/default/debug\Project.X.debug.o
+C:\Users\Mateus\AppData\Local\Temp\xcAsemc.\driver_tmp_1.s
 1731 62FE 0 CODE 0
 1733 62FE 0 CODE 0
 1736 62FE 0 CODE 0
@@ -2562,7 +2562,7 @@ main.c
 799 6D6C 0 CODE 0
 800 6D6E 0 CODE 0
 801 6D70 0 CODE 0
-C:\Users\Mateus\AppData\Local\Temp\xcAsets.\driver_tmp_1.s
+C:\Users\Mateus\AppData\Local\Temp\xcAsemc.\driver_tmp_1.s
 21923 8 0 CODE 0
 main.c
 183 8 0 CODE 0
